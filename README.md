@@ -7,7 +7,7 @@
 
 ## 安装
 ```shell
-# git clone  
+# git clone  https://github.com/moqihzh/csv2excel.git
 
 # cd csv2excel
 
