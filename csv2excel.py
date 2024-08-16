@@ -18,4 +18,4 @@ def csv2excel(file_path: str):
 
 if __name__ == '__main__':
     file_path = sys.argv[1:]
-    csv2excel(file_path)
+    csv2excel(file_path[0])
